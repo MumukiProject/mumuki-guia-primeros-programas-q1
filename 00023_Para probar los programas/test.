@@ -1,0 +1,3 @@
+examples:
+- name: 'El resultado es correcto'
+  postconditions:
